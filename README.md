@@ -11,6 +11,7 @@ PHP
 Javascript
 HTML
 CSS
+flutter
 📞 09683775270
 ✉️ erikariyamagnaye31@gmail.com
 
